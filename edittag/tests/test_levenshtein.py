@@ -9,7 +9,8 @@ Copyright (c) 2011 Brant C. Faircloth. All rights reserved.
 """
 
 import unittest
-from edittag.levenshtein import *
+from edittag.levenshtein import distance
+from edittag.levenshtein import hamming
 
 import pdb
 

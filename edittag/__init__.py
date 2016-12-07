@@ -1,1 +1,1 @@
-from tests import test
+from edittag.tests import test_c_levenshtein, test_levenshtein

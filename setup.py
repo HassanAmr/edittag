@@ -1,6 +1,4 @@
-import distribute_setup
-distribute_setup.use_setuptools()
-from setuptools import setup, find_packages
+from setuptools import setup
 
 
 if __name__ == '__main__':
